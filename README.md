@@ -1,9 +1,10 @@
 # Data-Product_Final-Task-Bootcamp-QTI
-Analisis sentimen produk review di bukalapak \n
-Dalam pengambilan data tidak digunakan menggunakan scraping, melainkan crawling menggunakan link API yang ada
+Analisis sentimen produk review di bukalapak. Dalam pengambilan data tidak digunakan menggunakan scraping, melainkan crawling menggunakan link API yang ada
 
 ## Audience
 Platform ini bisa digunakan baik untuk para seller maupun konsumen
+
+:---: | :---
 Seller | Dapat melihat apakah feedback dari pelanggan terhadap produk yang dijual berisi komentar yang baik
 Consumen | Mengetahui apakah produk yang akan dibeli memiliki feedback yang baik sehingga tidak ragu untuk membeli
 
