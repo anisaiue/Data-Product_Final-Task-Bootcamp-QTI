@@ -1,5 +1,6 @@
 
 # Sentimen Analisis dengan Flask dan Docker
+<p align="justify">
 Analisis sentimen menggunakan produk review di bukalapak. Untuk mengambil data tidak digunakan menggunakan scraping, melainkan crawling menggunakan link API yang ada.
 
 ## Audience
@@ -20,7 +21,23 @@ label | positif untuk rating 4-5 <br> negatif untuk rating 1-3
 
 ## Desain
 Desain yang digunakan dalam data produk kali ini seperti gambar di bawah ini
+<br>
+![desain](https://github.com/anisaiue/Data-Product_Final-Task-Bootcamp-QTI/blob/main/README/Desain.png)
 
 
 ## Display
 Referensi tampilan display: [link](https://towardsdatascience.com/develop-a-nlp-model-in-python-deploy-it-with-flask-step-by-step-744f3bdd7776)
+<br/>
+**Tampilan home**
+<br>
+![home](https://github.com/anisaiue/Data-Product_Final-Task-Bootcamp-QTI/blob/main/README/home.jpeg)
+<br>
+<br>
+**Tampilan hasil positif**
+<br>
+![positif](https://github.com/anisaiue/Data-Product_Final-Task-Bootcamp-QTI/blob/main/README/positif.jpeg)
+<br>
+<br>
+**Tampilan hasil negatif**
+<br>
+![negatif](https://github.com/anisaiue/Data-Product_Final-Task-Bootcamp-QTI/blob/main/README/negatif.jpeg)
