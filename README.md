@@ -18,6 +18,7 @@ rate | rating dari pengguna dari 1-5
 label | positif untuk rating 4-5 <br> negatif untuk rating 1-3
 
 ## Desain
+Desain yang digunakan dalam data produk kali ini seperti gambar di bawah ini
 
 
 ## Display
