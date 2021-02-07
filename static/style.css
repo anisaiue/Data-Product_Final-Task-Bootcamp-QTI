@@ -1,5 +1,5 @@
 body{
-	font:15px/1.5 Arial, Helvetica,sans-serif;
+	font:15px/1.5 Arial, Helvetica,monospace;
 	padding: 0px;
 	background-color:#f4f3f3;
 }
@@ -28,7 +28,7 @@ header{
 #brandname{
 	float:left;
 	font-size:30px;
-	color: #fff;
+	color: rgb(255, 255, 255);
 	margin: 10px;
 }
 

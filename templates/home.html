@@ -10,9 +10,10 @@
 	<header>
 		<div class="container">
 		<div id="brandname">
-			Sentiment Analysis App with Flask
+			Analisis Sentimen dengan Flask App
 		</div>
-		<h2>Product Review Sentiment Detector (Positive or Negative Review)</h2>
+		<h2>Deteksi Sentimen Review Produk</h2>
+		(Review Positif atau Negatif)
 		
 	</div>
 	</header>
@@ -20,9 +21,9 @@
 	<div class="ml-container">
 
 		<form action="{{ url_for('predict')}}" method="POST">
-		<p>Enter Your Message Here</p>
+		<p>Tulis review dari pelanggan di sini:</p>
 		<!-- <input type="text" name="comment"/> -->
-		<textarea name="message" rows="4" cols="50"></textarea>
+		<textarea name="review" rows="4" cols="50"></textarea>
 		<br/>
 
 		<input type="submit" class="btn-info" value="predict">
